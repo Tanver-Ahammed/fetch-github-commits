@@ -16,5 +16,4 @@ python fetch_commits.py
 ```
 
 ### 2. My Docker Hub Link
-
-[My Docker-Hub](https://hub.docker.com/repositories/tanverit16)
+[My Docker-Hub](https://hub.docker.com/u/tanverit16)
