@@ -3,7 +3,6 @@ import requests
 GITHUB_REPO = "Tanver-Ahammed/mss-DevOps"  # Change this to any public repo
 GITHUB_API_URL = f"https://api.github.com/repos/{GITHUB_REPO}/commits"
 
-
 def fetch_commits():
     response = requests.get(GITHUB_API_URL)
 
