@@ -9,7 +9,7 @@ A simple script to fetch commit messages and author names from a public GitHub r
 
 ## Setup & Usage
 
-### 1. Run the Script Locally
+### 1. Pull the Image from Docker Hub and Run the Script Locally
 ```bash
 docker run -it tanverit16/fetch-commits sh
 python fetch_commits.py
